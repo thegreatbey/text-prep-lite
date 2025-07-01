@@ -1,0 +1,33 @@
+{
+  "name": "text-prep-lite",
+  "version": "0.0.1",
+  "description": "Lightweight text preprocessing utilities for NLP in TypeScript.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegreatbey/text-prep-lite.git"
+  },
+  "keywords": [
+    "nlp",
+    "text",
+    "preprocessing",
+    "tokenize",
+    "typescript"
+  ],
+  "author": "thegreatbey",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p .",
+    "test": "vitest",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "typescript": "^5.3.3",
+    "vitest": "^1.4.2"
+  }
+} 
