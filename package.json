@@ -1,6 +1,6 @@
 {
   "name": "text-prep-lite",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Lightweight text preprocessing utilities for NLP in TypeScript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
