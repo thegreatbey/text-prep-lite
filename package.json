@@ -16,7 +16,12 @@
     "text",
     "preprocessing",
     "tokenize",
-    "typescript"
+    "typescript",
+    "normalize",
+    "stemming",
+    "lemmatization",
+    "stopwords",
+    "contractions"
   ],
   "author": "thegreatbey",
   "license": "MIT",

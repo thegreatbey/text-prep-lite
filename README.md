@@ -102,6 +102,17 @@ Returns an array of tokens.
 
 ---
 
+## 🔗 Related
+
+1. 👉 Need word embeddings for semantic analysis?  
+Check out [`wink-embeddings-small-en-50d`](https://www.npmjs.com/package/wink-embeddings-small-en-50d)
+
+
+2. 👉 Need a simple and robust PDF text extraction utility with a quality interface?
+Check out [`pdf-worker-package`]https://www.npmjs.com/package/pdf-worker-package
+
+---
+
 ## Development
 
 ```bash
@@ -116,7 +127,7 @@ npm run build
 
 ## License
 
-MIT © Your Name 
+MIT © Cavani21/thegreatbey
 
 ---
 
